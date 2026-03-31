@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
