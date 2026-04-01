@@ -15,4 +15,4 @@ class Solution:
                     stack.append(int(a/b))
             else:
                 stack.append(int(i))
-        return stack[-1] 
+        return stack[0]
