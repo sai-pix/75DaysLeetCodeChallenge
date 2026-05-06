@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1861-rotating-the-box](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1861-rotating-the-box](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1861-rotating-the-box](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
