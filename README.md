@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1861-rotating-the-box](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
