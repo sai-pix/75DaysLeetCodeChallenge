@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
