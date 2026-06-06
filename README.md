@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 ## Interactive
 |  |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
