@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
