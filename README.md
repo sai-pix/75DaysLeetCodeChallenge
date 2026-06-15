@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 ## Interactive
