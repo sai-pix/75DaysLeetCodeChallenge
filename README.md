@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1861-rotating-the-box](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2540-minimum-common-value](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2784-check-if-array-is-good](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Recursion
 |  |
 | ------- |
@@ -467,4 +470,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sai-pix/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
